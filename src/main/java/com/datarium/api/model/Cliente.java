@@ -19,7 +19,7 @@ import java.time.LocalDate;
 import java.util.List;
 
 @Entity
-@Table(name = "T_DATARIUM_CLIENTE")
+@Table(name = "T_SPRINT4_CLIENTE")
 @Getter
 @Setter
 @NoArgsConstructor
